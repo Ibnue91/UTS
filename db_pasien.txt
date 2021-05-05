@@ -1,0 +1,10 @@
+Wilayah :BANTEN
+positif :56
+dirawat :65
+sembuh :77
+meninggal :30
+Wilayah :
+positif :
+dirawat :
+sembuh :
+meninggal :
